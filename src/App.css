@@ -19,6 +19,13 @@ h1{
   margin: 0;
 }
 
+h1 span{
+  font-size: 1rem;
+  vertical-align: top;
+  display: inline-block;
+  margin-top: 6px;
+}
+
 form{
   margin-top: 20px;
 }
